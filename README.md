@@ -1,5 +1,5 @@
 This has information about our project.
-This is the code for our gamer called Brick Blaster.
+This is the code for our game called Brick Blaster.
 It uses a DE1-soC board withy a VGA port to display the game on a monitor.
 The board also displays score, lives, level. It has the controls for the game as well as switch's to skip levels for demo purposes
 
